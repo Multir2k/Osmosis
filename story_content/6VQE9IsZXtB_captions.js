@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/6VQE9IsZXtB_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.101.34925.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:02.526%0D%0AStart%20by%20putting%20the%20raw%20egg%20in%20the%20empty%20beaker.%0D%0A%0D%0A"}]})
